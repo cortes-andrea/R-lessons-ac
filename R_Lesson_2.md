@@ -68,6 +68,7 @@ Mean value per column: ``` colMeans(name[, -col(name)]) ```
 
 
 ***OTUs***
+
 OTU table into a variable:
 ```
 OTUs <- read.csv(“OTUtable.csv”)
