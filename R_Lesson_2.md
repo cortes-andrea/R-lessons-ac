@@ -1,4 +1,4 @@
-##Lesson 2: Dealing with Data Frames
+#Lesson 2: Dealing with Data Frames
 
 **Load Data**: ``` data(“name”) ```
 
