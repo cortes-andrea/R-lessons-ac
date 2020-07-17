@@ -1,4 +1,4 @@
-#Lesson 2: Dealing with Data Frames
+**Lesson 2: Dealing with Data Frames**
 
 **Load Data**: ``` data(“name”) ```
 
@@ -67,7 +67,7 @@ rowSums(name[, -ncol(name)])
 Mean value per column: ``` colMeans(name[, -col(name)]) ```
 
 
-###OTUs
+***OTUs***
 OTU table into a variable:
 ```
 OTUs <- read.csv(“OTUtable.csv”)
